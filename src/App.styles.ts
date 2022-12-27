@@ -41,8 +41,8 @@ export const Description = styled.p`
 
 export const Image = styled.img`
   border-radius: 10px;
-  height: "288px";
-  width: "288px";
+  height: 288px;
+  width: 288px;
 `;
 
 export const Attributes = styled.div`
