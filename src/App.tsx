@@ -7,7 +7,7 @@ function App() {
     <Style.Section>
       <Style.MainWrapper>
         <Style.Wrapper>
-          <Style.Image alt="QR Code" src={QR} height="288px" width="288px" />
+          <Style.Image alt="QR Code" src={QR} />
           <Style.Contents>
             <Style.Title>
               Improve your front-end skills by building projects
